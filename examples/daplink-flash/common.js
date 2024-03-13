@@ -169,7 +169,7 @@ const flash = async (transport, program) => {
 }
 
 module.exports = {
-    DAPLINK_VENDOR: 0xD28,
+    DAPLINK_VENDOR: 0xD11,
     getFile,
     selectDevice,
     flash
